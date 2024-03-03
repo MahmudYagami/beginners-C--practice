@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Labmidexam\Labmidexam\bin\Debug\net8.0\Labmidexam.exe
+C:\Users\User\source\repos\Labmidexam\Labmidexam\bin\Debug\net8.0\Labmidexam.deps.json
+C:\Users\User\source\repos\Labmidexam\Labmidexam\bin\Debug\net8.0\Labmidexam.runtimeconfig.json
+C:\Users\User\source\repos\Labmidexam\Labmidexam\bin\Debug\net8.0\Labmidexam.dll
+C:\Users\User\source\repos\Labmidexam\Labmidexam\bin\Debug\net8.0\Labmidexam.pdb
+C:\Users\User\source\repos\Labmidexam\Labmidexam\obj\Debug\net8.0\Labmidexam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Labmidexam\Labmidexam\obj\Debug\net8.0\Labmidexam.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Labmidexam\Labmidexam\obj\Debug\net8.0\Labmidexam.AssemblyInfo.cs
+C:\Users\User\source\repos\Labmidexam\Labmidexam\obj\Debug\net8.0\Labmidexam.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Labmidexam\Labmidexam\obj\Debug\net8.0\Labmidexam.dll
+C:\Users\User\source\repos\Labmidexam\Labmidexam\obj\Debug\net8.0\refint\Labmidexam.dll
+C:\Users\User\source\repos\Labmidexam\Labmidexam\obj\Debug\net8.0\Labmidexam.pdb
+C:\Users\User\source\repos\Labmidexam\Labmidexam\obj\Debug\net8.0\Labmidexam.genruntimeconfig.cache
+C:\Users\User\source\repos\Labmidexam\Labmidexam\obj\Debug\net8.0\ref\Labmidexam.dll
